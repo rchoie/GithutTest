@@ -4,5 +4,6 @@
     <string name="app_name">GithutTest</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world from Ronny!</string>
+    <string name="testing">testing</string>
 
 </resources>
